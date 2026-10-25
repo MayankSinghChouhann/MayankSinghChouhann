@@ -71,14 +71,20 @@ The work explores the intersection of **real-time data processing, route predict
 
 | Area | Tools and technologies |
 | --- | --- |
-| **Backend** | Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, JWT |
-| **Databases & caching** | PostgreSQL, MySQL, Redis, SQL |
-| **Frontend** | React, TypeScript, JavaScript |
-| **Cloud & DevOps** | AWS EC2, Docker, Docker Compose, GitHub Actions, Linux |
+| **Programming languages** | Java, Python, C, JavaScript, TypeScript, Dart, SQL |
+| **Backend & APIs** | Spring Boot, Spring Framework, Spring Security, REST APIs, JPA/Hibernate, JWT, Microservices |
+| **Databases & caching** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Cloud platforms** | AWS (EC2, Lightsail), Microsoft Azure, Cloudflare |
+| **Containers & orchestration** | Docker, Docker Compose, Kubernetes, Kustomize |
+| **Infrastructure & CI/CD** | Terraform, GitHub Actions, GitLab CI/CD, Jenkins |
+| **Messaging & observability** | Apache Kafka, Prometheus, Grafana |
 | **Testing & security** | JUnit, Mockito, Trivy, API testing |
-| **Developer tools** | Git, GitHub, IntelliJ IDEA, VS Code |
+| **Frontend** | React, TypeScript, JavaScript |
+| **Developer tools & OS** | Git, GitHub, GitLab, Linux, IntelliJ IDEA, VS Code |
 
-**Currently strengthening:** System design, Kubernetes, infrastructure as code, and production observability.
+**Primary focus:** Java, Spring Boot, PostgreSQL, REST APIs, Docker, AWS, and CI/CD.
+
+**Currently expanding:** Kubernetes, Terraform, Azure, Jenkins, Kafka, production observability, and system design.
 
 ## Engineering interests
 
