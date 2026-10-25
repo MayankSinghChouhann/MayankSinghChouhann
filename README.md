@@ -17,7 +17,7 @@ Founder & CEO at **[Vallo](https://vallo.in)**
 
 I'm a computer science student focused on **building and operating real software systems**. I enjoy backend development: designing APIs, modeling data, implementing authentication, debugging failures, and taking applications from local development to deployment.
 
-I work primarily with **Java and Spring Boot**, and I'm growing my experience across **cloud infrastructure, DevOps, and system design**. Outside coursework, I build products, contribute to open-source work, and practice data structures and algorithms in Java.
+I work primarily with **Java and Spring Boot**, and I'm expanding my experience in **cloud infrastructure, DevOps, and system design**. Outside coursework, I build products and work on practical engineering challenges involving mobility, infrastructure, and developer tooling.
 
 ## Selected work
 
@@ -47,12 +47,25 @@ A full-stack workspace that helps engineers investigate failures and review infr
 
 <sub>The public demo currently uses a local rules engine for guidance; Gemini integration is optional. Not every feature in the latest source tree is deployed to the demo.</sub>
 
-### DSA in Java — Problem-Solving Practice
-**Algorithms · Data structures · Interview preparation**
+## Published Indian Patent Application
 
-An evolving collection of Java solutions and practice focused on problem-solving techniques, correctness, and time/space complexity.
+### Dynamic Real-Time Mobility System for Intracity Transit and Method Thereof
 
-[View repository](https://github.com/MayankSinghChouhann/DSA-Java)
+**Status:** Published by the Indian Patent Office · **Team invention**
+
+I'm part of the team behind a published Indian patent application focused on improving how commuters discover and use local transportation. The proposed system addresses a common problem in Indian cities: **fragmented transport networks**, where shared autos, local vans, and organized transit often operate without unified real-time information.
+
+**The proposed approach explores:**
+
+- **Unified transit discovery:** Connecting organized and unorganized transport options within one mobility framework.
+- **Real-time vehicle intelligence:** Using location and route information to predict vehicle movement.
+- **Dynamic transit graphs:** Updating route connections as conditions change to support intelligent route discovery.
+- **Vehicle matching:** Identifying suitable vehicles based on routes, proximity, and availability.
+- **Journey information:** Supporting predictions of seat availability, travel times, and fare information.
+
+The work explores the intersection of **real-time data processing, route prediction, and urban mobility systems**.
+
+<sub>Publication of a patent application is not the same as grant of a patent. The capabilities above describe the proposed invention, not a claim that every feature has been deployed in Vallo.</sub>
 
 ## Technical skills
 
@@ -65,13 +78,14 @@ An evolving collection of Java solutions and practice focused on problem-solving
 | **Testing & security** | JUnit, Mockito, Trivy, API testing |
 | **Developer tools** | Git, GitHub, IntelliJ IDEA, VS Code |
 
-**Currently strengthening:** Data structures and algorithms, system design, Kubernetes, infrastructure as code, and production observability.
+**Currently strengthening:** System design, Kubernetes, infrastructure as code, and production observability.
 
 ## Engineering interests
 
 - **Backend systems:** API design, database performance, authorization, and maintainable services.
 - **Delivery and reliability:** CI/CD, containers, deployment workflows, monitoring, and incident diagnosis.
-- **Product engineering:** turning requirements and user feedback into usable, dependable software.
+- **Product engineering:** Turning requirements and user feedback into usable, dependable software.
+- **Mobility technology:** Real-time transport systems, intelligent routing, and connected commuting experiences.
 
 ---
 
